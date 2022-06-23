@@ -4,7 +4,7 @@ PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY. BY ACCESSING OR 
 
 ### ACCEPTANCE OF TERMS
 
-The following Terms of Service Agreement (the "TOS") is a legally binding agreement that shall govern the relationship with our users and others which may interact or interface with Driven by Sheets, located at 3 avenue de la prime, 44100 Nantes, France and our subsidiaries and affiliates, in association with the use of the Driven By Sheets website, which includes learnerdesign.com, (the "Site") and its Services, which shall be defined below.
+The following Terms of Service Agreement (the "TOS") is a legally binding agreement that shall govern the relationship with our users and others which may interact or interface with Driven by Sheets, located at 3 avenue de la prime, 44100 Nantes, France and our subsidiaries and affiliates, in association with the use of the Driven By Sheets website, which includes driven-by-sheets.com, (the "Site") and its Services, which shall be defined below.
 
 ## DESCRIPTION OF WEBSITE SERVICES OFFERED
 
