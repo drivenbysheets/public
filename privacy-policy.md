@@ -23,7 +23,7 @@ During the initial setup, the Add-on will do nothing except asking for your cons
 
 These permissions are necessary for the Add-on to show the Thank you message upon successful installation oif the Add-on and to also display the users manual.
 
-## Privacy details for agencyautomators.com
+## Privacy details for driven-by-sites.com
 
 ### Collection of Information
 
