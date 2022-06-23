@@ -6,7 +6,7 @@ PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY. BY ACCESSING OR 
 
 The following Terms of Service Agreement (the "TOS") is a legally binding agreement that shall govern the relationship with our users and others which may interact or interface with Driven by Sheets, located at 3 avenue de la prime, 44100 Nantes, France and our subsidiaries and affiliates, in association with the use of the Driven By Sheets website, which includes driven-by-sheets.com, (the "Site") and its Services, which shall be defined below.
 
-## DESCRIPTION OF WEBSITE SERVICES OFFERED
+### DESCRIPTION OF WEBSITE SERVICES OFFERED
 
 The Site is a software website which has the following description:
 
@@ -18,7 +18,7 @@ The user acknowledges and agrees that the Services provided and made available t
 
 Furthermore, the user understands, acknowledges and agrees that the Services offered shall be provided "AS IS" and as such Driven By Sheets shall not assume any responsibility or obligation for the timeliness, missed delivery, deletion and/or any failure to store user content, communication or personalization settings.
 
-## CAUTIONS FOR GLOBAL USE AND EXPORT AND IMPORT COMPLIANCE
+### CAUTIONS FOR GLOBAL USE AND EXPORT AND IMPORT COMPLIANCE
 
 Due to the global nature of the internet, through the use of our network you hereby agree to comply with all local rules relating to online conduct and that which is considered acceptable Content. Uploading, posting and/or transferring of software, technology and other technical data may be subject to the export and import laws of the United States and possibly other countries. Through the use of our network, you thus agree to comply with all applicable export and import laws, statutes and regulations, including, but not limited to, the Export Administration Regulations (http://www.access.gpo.gov/bis/ear/ear_data.html), as well as the sanctions control program of the United States (http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx). Furthermore, you state and pledge that you:
 
@@ -30,7 +30,7 @@ c) agree not to use our website network Services for any military, nuclear, miss
 
 d) agree not to post, transfer nor upload any software, technology or any other technical data which would be in violation of the U.S. or other applicable export and/or import laws.
 
-## CONTENT PLACED OR MADE AVAILABLE FOR COMPANY SERVICES
+### CONTENT PLACED OR MADE AVAILABLE FOR COMPANY SERVICES
 
 Driven By Sheets shall not lay claim to ownership of any content submitted by any visitor or user, nor make such content available for inclusion on our website Services. Therefore, you hereby grant and allow for Driven By Sheets the below listed worldwide, royalty-free and non-exclusive licenses, as applicable:
 
@@ -42,37 +42,41 @@ c) For any other content submitted or made available for inclusion on the public
 
 Those areas which may be deemed "publicly accessible" areas of Driven By Sheets' sites are those such areas of our network properties which are meant to be available to the general public, and which would include message boards and groups that are openly available to users.
 
-## CONTRIBUTIONS TO COMPANY WEBSITE
+### CONTRIBUTIONS TO COMPANY WEBSITE
 
 Driven By Sheets provides an area for our users to contribute feedback to our website. When you submit issues, ideas, feature requests, documents, suggestions and/or proposals ("Contributions") to our site, you acknowledge and agree that:
 
 a) your contributions do not contain any type of confidential or proprietary information;
+
 b) Driven By Sheets shall not be liable or under any obligation to ensure or maintain confidentiality, expressed or implied, related to any Contributions;
+
 c) Driven By Sheets shall be entitled to make use of and/or disclose any such Contributions in any such manner as they may see fit;
+
 d) the contributor's Contributions shall automatically become the sole property of Driven By Sheets; and
+
 e) Driven By Sheets is under no obligation to either compensate or provide any form of reimbursement in any manner or nature.
 
-## INDEMNITY
+### INDEMNITY
 
 All users herein agree to insure and hold Driven By Sheets, our subsidiaries, affiliates, agents, employees, officers, partners and/or licensors blameless or not liable for any claim or demand, which may include, but is not limited to, reasonable attorney fees made by any third party which may arise from any content a user of our site may submit, post, modify, transmit or otherwise make available through our Services, the use of Driven By Sheets Services or your connection with these Services, your violations of the Terms of Service and/or your violation of any such rights of another person.
 
-## COMMERCIAL REUSE OF SERVICES
+### COMMERCIAL REUSE OF SERVICES
 
 The user herein agrees not to replicate, duplicate, copy, trade, sell, resell nor exploit for any commercial reason any part, use of, or access to Driven By Sheets' sites.
 
-## MODIFICATIONS
+### MODIFICATIONS
 
 Driven By Sheets shall reserve the right at any time it may deem fit, to modify, alter and or discontinue, whether temporarily or permanently, our service, or any part thereof, with or without prior notice. In addition, we shall not be held liable to you or to any third party for any such alteration, modification, suspension and/or discontinuance of our Services, or any part thereof.
 
-## ADVERTISERS
+### ADVERTISERS
 
 Any correspondence or business dealings with, or the participation in any promotions of, advertisers located on or through our Services, which may include the payment and/or delivery of such related goods and/or Services, and any such other term, condition, warranty and/or representation associated with such dealings, are and shall be solely between you and any such advertiser. Moreover, you herein agree that Driven By Sheets shall not be held responsible or liable for any loss or damage of any nature or manner incurred as a direct result of any such dealings or as a result of the presence of such advertisers on our website.
 
-## LINKS
+### LINKS
 
 Either Driven By Sheets or any third parties may provide links to other websites and/or resources. Thus, you acknowledge and agree that we are not responsible for the availability of any such external sites or resources, and as such, we do not endorse nor are we responsible or liable for any content, products, advertising or any other materials, on or available from such third party sites or resources. Furthermore, you acknowledge and agree that Driven By Sheets shall not be responsible or liable, directly or indirectly, for any such damage or loss which may be a result of, caused or allegedly to be caused by or in connection with the use of or the reliance on any such content, goods or Services made available on or through any such site or resource.
 
-## PROPRIETARY RIGHTS
+### PROPRIETARY RIGHTS
 
 You do hereby acknowledge and agree that Driven By Sheets' Services and any essential software that may be used in connection with our Services ("Software") shall contain proprietary and confidential material that is protected by applicable intellectual property rights and other laws. Furthermore, you herein acknowledge and agree that any Content which may be contained in any advertisements or information presented by and through our Services or by advertisers is protected by copyrights, trademarks, patents or other proprietary rights and laws. Therefore, except for that which is expressly permitted by applicable law or as authorized by Driven By Sheets or such applicable licensor, you agree not to alter, modify, lease, rent, loan, sell, distribute, transmit, broadcast, publicly perform and/or created any plagiaristic works which are based on Driven By Sheets Services (e.g. Content or Software), in whole or part.
 
@@ -92,7 +96,7 @@ d) NO ADVICE AND/OR INFORMATION, DESPITE WHETHER WRITTEN OR ORAL, THAT MAY BE OB
 
 e) A SMALL PERCENTAGE OF SOME USERS MAY EXPERIENCE SOME DEGREE OF EPILEPTIC SEIZURE WHEN EXPOSED TO CERTAIN LIGHT PATTERNS OR BACKGROUNDS THAT MAY BE CONTAINED ON A COMPUTER SCREEN OR WHILE USING OUR SERVICES. CERTAIN CONDITIONS MAY INDUCE A PREVIOUSLY UNKNOWN CONDITION OR UNDETECTED EPILEPTIC SYMPTOM IN USERS WHO HAVE SHOWN NO HISTORY OF ANY PRIOR SEIZURE OR EPILEPSY. SHOULD YOU, ANYONE YOU KNOW OR ANYONE IN YOUR FAMILY HAVE AN EPILEPTIC CONDITION, PLEASE CONSULT A PHYSICIAN IF YOU EXPERIENCE ANY OF THE FOLLOWING SYMPTOMS WHILE USING OUR SERVICES: DIZZINESS, ALTERED VISION, EYE OR MUSCLE TWITCHES, LOSS OF AWARENESS, DISORIENTATION, ANY INVOLUNTARY MOVEMENT, OR CONVULSIONS.
 
-## LIMITATION OF LIABILITY
+### LIMITATION OF LIABILITY
 
 YOU EXPLICITLY ACKNOWLEDGE, UNDERSTAND AND AGREE THAT DRIVEN BY SHEETS AND OUR SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY PUNITIVE, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES WHICH MAY BE RELATED TO THE LOSS OF ANY PROFITS, GOODWILL, USE, DATA AND/OR OTHER INTANGIBLE LOSSES, EVEN THOUGH WE MAY HAVE BEEN ADVISED OF SUCH POSSIBILITY THAT SAID DAMAGES MAY OCCUR, AND RESULT FROM:
 
@@ -106,31 +110,31 @@ d) STATEMENTS OR CONDUCT OF ANY SUCH THIRD PARTY ON OUR SERVICE;
 
 e) AND ANY OTHER MATTER WHICH MAY BE RELATED TO OUR SERVICE.
 
-## RELEASE
+### RELEASE
 
 In the event you have a dispute, you agree to release Driven By Sheets (and its officers, directors, employees, agents, parent subsidiaries, affiliates, co-branders, partners and any other third parties) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected or unsuspected, disclosed and undisclosed, arising out of or in any way connected to such dispute.
 
-## SPECIAL ADMONITION RELATED TO FINANCIAL MATTERS
+### SPECIAL ADMONITION RELATED TO FINANCIAL MATTERS
 
 Should you intend to create or to join any service, receive or request any such news, messages, alerts or other information from our Services concerning companies, stock quotes, investments or securities, please review the above Sections Warranty Disclaimers and Limitations of Liability again. In addition, for this particular type of information, the phrase "Let the investor beware" is appropriate. Driven By Sheets' content is provided primarily for informational purposes, and no content that shall be provided or included in our Services is intended for trading or investing purposes. Driven By Sheets and our licensors shall not be responsible or liable for the accuracy, usefulness or availability of any information transmitted and/or made available by way of our Services, and shall not be responsible or liable for any trading and/or investment decisions based on any such information.
 
-## EXCLUSION AND LIMITATIONS
+### EXCLUSION AND LIMITATIONS
 
 THERE ARE SOME JURISDICTIONS WHICH DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OF EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. THEREFORE, SOME OF THE ABOVE LIMITATIONS OF SECTIONS WARRANTY DISCLAIMERS AND LIMITATION OF LIABILITY MAY NOT APPLY TO YOU.
 
-## THIRD PARTY BENEFICIARIES
+### THIRD PARTY BENEFICIARIES
 
 You herein acknowledge, understand and agree, unless otherwise expressly provided in this TOS, that there shall be no third-party beneficiaries to this agreement.
 
-## NOTICE
+### NOTICE
 
 Driven By Sheets may furnish you with notices, including those with regards to any changes to the TOS, including but not limited to email, regular mail, MMS or SMS, text messaging, postings on our website Services, or other reasonable means currently known or any which may be herein after developed. Any such notices may not be received if you violate any aspects of the TOS by accessing our Services in an unauthorized manner. Your acceptance of this TOS constitutes your agreement that you are deemed to have received any and all notices that would have been delivered had you accessed our Services in an authorized manner.
 
-## TRADEMARK INFORMATION
+### TRADEMARK INFORMATION
 
 You herein acknowledge, understand and agree that all of the Driven By Sheets trademarks, copyright, trade name, service marks, and other Driven By Sheets logos and any brand features, and/or product and service names are trademarks and as such, are and shall remain the property of Driven By Sheets. You herein agree not to display and/or use in any manner the Driven By Sheets logo or marks without obtaining Driven By Sheets' prior written consent.
 
-## COPYRIGHT OR INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS NOTICE & PROCEDURES
+### COPYRIGHT OR INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS NOTICE & PROCEDURES
 
 Driven By Sheets will always respect the intellectual property of others, and we ask that all of our users do the same. With regards to appropriate circumstances and at its sole discretion, Driven By Sheets may disable and/or terminate the accounts of any user who violates our TOS and/or infringes the rights of others. If you feel that your work has been duplicated in such a way that would constitute copyright infringement, or if you believe your intellectual property rights have been otherwise violated, you should provide to us the following information:
 
@@ -158,7 +162,7 @@ France
 
 Email: legal@driven-by-sheets.com
 
-## CLOSED CAPTIONING
+### CLOSED CAPTIONING
 
 BE IT KNOWN, that Driven By Sheets complies with all applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. For more information, please visit our website at driven-by-sheets.com.
 
@@ -172,11 +176,11 @@ This TOS constitutes the entire agreement between you and Driven By Sheets and s
 
 It is at the mutual agreement of both you and Driven By Sheets with regard to the TOS that the relationship between the parties shall be governed by the laws of the country of France without regard to its conflict of law provisions and that any and all claims, causes of action and/or disputes, arising out of or relating to the TOS, or the relationship between you and Driven By Sheets, shall be filed within the courts having jurisdiction within the city of Nantes, France. You and Driven By Sheets agree to submit to the jurisdiction of the courts as previously mentioned, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.
 
-## WAIVER AND SEVERABILITY OF TERMS
+### WAIVER AND SEVERABILITY OF TERMS
 
 At any time, should Driven By Sheets fail to exercise or enforce any right or provision of the TOS, such failure shall not constitute a waiver of such right or provision. If any provision of this TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the TOS remain in full force and effect.
 
-## STATUTE OF LIMITATIONS
+### STATUTE OF LIMITATIONS
 
 You acknowledge, understand and agree that regardless of any statute or law to the contrary, any claim or action arising out of or related to the use of our Services or the TOS must be filed within 3 year(s) after said claim or cause of action arose or shall be forever barred.
 
