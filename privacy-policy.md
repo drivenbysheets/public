@@ -44,11 +44,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email,  or mailing address.
 
-Email: contact@driven-by-sheets.com
-
-Mailing Address:
-
-Driven By Sheets
-3, avenue de la prime
-44100 Nantes
-France
+* Email: contact@driven-by-sheets.com
+* Mailing Address: Driven By Sheets, 3 avenue de la prime, 44100 Nantes, France
