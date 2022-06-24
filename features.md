@@ -11,7 +11,9 @@ It provides the following features:
 * Driven by Sheets: The data in the sheet drives the documents' generation.
 * Based on Sheets: You can input data directly into Google Sheets, but you can also use formulas to compute new values. For example, you can convert lower case labels to upper case, capitalize them and merge THIS data and not the original one.
 * Multiple Generation: Create multiple documents from one sheet.
-* Markers: Create your own markers based on the fields you created into your sheet.
-* Conditional Sections: From one document, create as many versions you want based on values in your google sheet.
-* Multiple Version: Create multiple versions of a document from one sheet thanks to the use of conditional sections.
-* Multi-format: Use CSV, Excel, OpenOffice, LibreOffice as alternate spreadsheets.
+* Your Own Markers: The fields in your Google Sheet ARE your markers.
+* Conditional Sections: In your template, insert conditional sections based on variable names and values stored in your google sheet. The final documents only contain the sections satisfying the conditions.
+* Multiple Versions: Create multiple versions of a document from one sheet thanks to the use of conditional sections.
+* Multiple Input Formats: Use CSV, Excel, OpenOffice, LibreOffice as alternate spreadsheets.
+
+In a few words, with Driven by sheets, Input One, Generate Many.
