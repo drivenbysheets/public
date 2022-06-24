@@ -1,6 +1,6 @@
 ---
 title: Terms Of Service (TOS) Agreement
-nav_order: 3
+nav_order: 101
 ---
 
 ## TERMS OF SERVICE AGREEMENT
