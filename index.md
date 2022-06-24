@@ -1,3 +1,8 @@
+---
+title: Welcome
+nav_order: 1
+---
+
 ## Welcome to Driven-by-sheets extensions family
 
 This project enables you to drive document generation from google sheets through the installation of the corresponding add-on.
