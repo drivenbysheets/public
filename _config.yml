@@ -3,3 +3,7 @@ title: Driven By Sheets
 description: Sheets are magic.
 show_downloads: false
 google_analytics: G-DSLG1BPYKZ
+
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
