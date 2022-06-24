@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy Agreement
+title: Privacy Policy
 nav_order: 100
 ---
 
