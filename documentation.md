@@ -1,7 +1,7 @@
---
+---
 title: Documentation
 nav_order: 2
---
+---
 
 # Installation
 
