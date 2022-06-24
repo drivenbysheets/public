@@ -7,14 +7,14 @@ nav_order: 2
 
 # Sheet
 
-The sheet is composed of 2 columns A and B.
+The sheet is composed of 2 columns A and B:
 
-The column A contains the *name* of the data. For example: Firstname
-The column B contains the *data* itself. For example: John
+* The column A contains the *name* of the data. For example: Firstname
+* The column B contains the *data* itself. For example: John
 
 The firstname is also often refered as the variable name.
 
-The variables may be a parameter or a data:
+A variables may be a parameter or a data:
 
 * a parameter is used by the program itself. For example, a destination folder to store the generated documents, name of the models to be used by the program to know which templates to process. The program and each of its versions come with a set of predefined variables.
 * a data is your information only and are not used by the program for its internal use.
