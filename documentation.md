@@ -5,6 +5,14 @@ nav_order: 2
 
 # Installation
 
+From Google Sheets, click on Extensions/... You then arrive to the Google Workspace Marketplace screen.
+
+Type "Driven by sheets" in the search box: one or more extensions appear. Click on the Sheep :-)
+
+A screen then presents you the extension, the scopes and the opinions. Read carefully the scopes you'll need to give to the extension so it can process your documents. More information is available [here](https://driven-by-sheets/public/scopes).
+
+Click on Install to install.
+
 # Sheet
 
 The sheet is composed of 2 columns A and B:
@@ -14,7 +22,7 @@ The sheet is composed of 2 columns A and B:
 
 The firstname is also often refered as the variable name.
 
-A variables may be a parameter or a data:
+A variable may be a parameter or a data:
 
 * a parameter is used by the program itself. For example, a destination folder to store the generated documents, name of the models to be used by the program to know which templates to process. The program and each of its versions come with a set of predefined variables.
 * a data is your information only and are not used by the program for its internal use.
