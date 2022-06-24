@@ -88,11 +88,5 @@ Please let us know what you think of the Service, these Terms and, in general, D
 
 Questions or comments about the Service may be directed to Driven By Sheets as follows:
 
-Mailing Address:
-
-Driven By Sheets
-3 avenue de la prime
-44100 Nantes
-France
-
-Email: legal@driven-by-sheets.com
+* Mailing Address: Driven By Sheets, 3 avenue de la prime, 44100 Nantes, France
+* Email: legal@driven-by-sheets.com
