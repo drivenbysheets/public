@@ -3,7 +3,8 @@ remote_theme: just-the-docs/just-the-docs
 title: Driven By Sheets
 description: Sheets are magic.
 show_downloads: false
-google_analytics: G-DSLG1BPYKZ
+ga_tracking: G-DSLG1BPYKZ
+ga_tracking_anonymize_ip: true
 
 # Aux links for the upper right navigation
 aux_links:
