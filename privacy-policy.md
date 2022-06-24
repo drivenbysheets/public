@@ -40,7 +40,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-### How to Contact Us
+# How to Contact Us
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email,  or mailing address.
 
