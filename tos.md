@@ -1,5 +1,5 @@
 ---
-title: Terms Of Service (TOS)
+title: Terms Of Service
 nav_order: 101
 ---
 
