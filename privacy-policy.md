@@ -1,3 +1,8 @@
+---
+title: Privacy Policy Agreement
+nav_order: 4
+---
+
 ## PRIVACY POLICY AGREEMENT
 
 Driven By Sheets, (DrivenBySheets), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Driven By Sheets of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
